@@ -1,0 +1,8 @@
+Les adjuntamos el informe diario de slow queries. Dentro del fichero tar.gz veran 4 ficheros:
+
+1. daily-top5-queries-by-rows: Top5 de las queries diarias por filas afectadas.
+2. daily-top5-queries-by-time: Top5 de las queries que mas tiempo tardan en ejecutarse.
+3. daily-top5-queries-by-count: Top5 de las queries que mas veces se han ejecutado.
+4. daily-pt-query-digest: Informe de Percona sobre queries lentas.
+
+Saludos
